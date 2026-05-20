@@ -1,13 +1,55 @@
 body {
-	font-family: Merriweather, Roboto Mono, Arial, sans-serif ;
+	font-family: Merriweather, Roboto Mono, Calibri, Arial, sans-serif;
+	color: #2e3d50;
+	//margin: 60px ;
+	margin: 0 auto;
+	max-width: 1100px;
+	//position: relative;
+	font-size: 1rem;
+	//padding-top: 0.25rem;
+
 }
 
-h1 {text-align: center;
-	
+h1 {
+	text-align: center;
+	margin-bottom: 2.5px;
+	font-size: 2rem;
+
+
 }
 
-h2 {text-align: left;}
+h2 {
+	text-align: center;
 
-.contact-info {text-align: center;}
+	border-bottom: 2px solid #2e3d50;
+	padding-bottom: 0.1rem;
+	margin-bottom: 0.5rem;
 
-.separator {color: red;}
+	//border-bottom-style: solid;
+	//border-bottom-width: 2px;
+	//padding-bottom: 0.25rem;
+
+	font-size: 1.379rem;
+}
+
+h3 {
+	font-size: 1.1rem;
+
+
+}
+
+.experience,
+.education,
+.skills {
+	//color: red;
+}
+
+.contact-info {
+	text-align: center;
+	font-size: 0.8965rem;
+}
+
+.separator {
+	color: red;
+}
+
