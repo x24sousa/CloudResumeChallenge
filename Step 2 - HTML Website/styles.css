@@ -82,6 +82,14 @@ h4 {
 	font-size: .9rem;
 }
 
+h5 {
+	text-align: center;
+	border-top: 2px solid #2e3d50;
+	padding-top: 1rem;
+	margin-top: 0.5rem;
+	font-size: 0.75rem;
+}
+
 
 .summary,
 .experience,
