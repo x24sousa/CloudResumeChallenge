@@ -38,12 +38,12 @@ h1 {
 }
 
 
-.certifications-sublist {
+.certifications-sublist,
+.projects-sublist {
 	font-size: 0.9rem;
 	//padding-bottom: 0.5rem;
 	margin-bottom: 0.3rem;
 	margin-top: 0.3rem;
-	color: lightblue;
 }
 
 h2 {
