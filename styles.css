@@ -105,7 +105,8 @@ h5 {
 }
 
 .experience-meta,
-.education-meta {
+.education-meta,
+.projects-meta {
 	font-size: .9rem;
 	text-align: center;
 }
