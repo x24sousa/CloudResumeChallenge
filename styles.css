@@ -115,9 +115,10 @@ h5 {
 .projects-sub-headers {
 	font-weight: bold;
 	text-align: center;
-	font-size: 1rem;
+	font-size: .95rem;
 	padding-top: 1.25rem;
 	padding-bottom: .5rem;
+	text-decoration-line: underline;
 }
 .projects-sub-meta {
 	font-size: .9rem;
