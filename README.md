@@ -3,7 +3,7 @@
 A cloud-hosted resume website built as part of the Cloud Resume Challenge.
 
 ## Live Site
-Website: x24sousa.com
+Website: https://www.x24sousa.com
 
 ## Technologies Used
 - Amazon S3
@@ -29,9 +29,11 @@ Website: x24sousa.com
 
 ## Architecture
 
+### Website Hosting
+
 - GitHub → CodeBuild → S3 → CloudFront → Route53
 
-- Visitor Counter:
+### Visitor Counter:
 
 - Browser → API Gateway → Lambda → DynamoDB
 
@@ -42,7 +44,7 @@ Website: x24sousa.com
 - API Gateway and Lambda integration
 - CI/CD automation using AWS services
 
-## Future Work
+## In Progress
 - Infrastructure as Code (Terraform)
 - Automated testing
 - Additional monitoring and logging
