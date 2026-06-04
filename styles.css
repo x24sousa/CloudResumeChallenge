@@ -32,14 +32,12 @@ h1 {
 	//list-style-type: square;
 }
 
-.projects-list,
-.certifications-list,
-.skills-list {
-}
+
 
 
 .certifications-sublist,
-.projects-sublist {
+.projects-sublist, 
+.skills-list {
 	font-size: 0.9rem;
 	//padding-bottom: 0.5rem;
 	margin-bottom: 0.3rem;
