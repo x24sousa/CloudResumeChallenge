@@ -106,9 +106,15 @@ h5 {
 
 .experience-meta,
 .education-meta,
-.projects-meta {
+.projects-meta
+ {
 	font-size: .9rem;
 	text-align: center;
+}
+
+.projects-sub-meta {
+	font-size: .9rem;
+	line-height: 1.5rem;
 }
 
 .contact-info {
